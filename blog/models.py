@@ -9,4 +9,4 @@ class Post(models.Model):
     #author: 추후 작성
 
     def __str__(self):
-        return f'[{self.pk}][{self.title}]'
+        return f'[{self.pk}]{self.title}'
