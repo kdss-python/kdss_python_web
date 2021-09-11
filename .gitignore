@@ -137,3 +137,5 @@ migrations/
 
 docker-compose.yml
 nginx/nginx.conf
+
+init-letsencrypt.sh
